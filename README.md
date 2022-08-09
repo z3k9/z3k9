@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning html, css and sass
 - 💞️ I’m looking to collaborate on building beautiful UIs
-- 📫 How to reach me 
+- 📫 You can reach me via mail @ ajelelade@gmail.com
 
 <!---
 z3k9/z3k9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
