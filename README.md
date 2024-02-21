@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwademilade
 - 👀 I’m interested in Devops and Cloud engineering
-- 🌱 I’m currently learning pyhton.
+- 🌱 I’m currently learning python.
 
 <!---
 z3k9/z3k9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
