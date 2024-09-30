@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwademilade
-- 👀 I’m interested in Devops and Cloud engineering
+- 👀 I’m interested Data and AI engineering
 - 🌱 I’m currently learning python.
 
 <!---
