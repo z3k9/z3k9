@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oluwademilade
+- 👋 Hi
 - 👀 I’m interested Data and AI engineering
 - 🌱 I’m currently learning python.
 
